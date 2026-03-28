@@ -1,4 +1,6 @@
-This repository was created to publish my work related to my Data Management Course taking in my University of Iowa Masters of Business Analytics Program
+## MSBA Data Management: University of Iowa
+
+Repository for coursework and projects focused on database normalization, ERD development (draw.io), and managing complex datasets from enterprise warehouses
 
 For more information on my work, check out my website [here](https://kennykaijage.com/)
 
