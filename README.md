@@ -1,5 +1,8 @@
 ## University of Iowa Masters of Business Analytics: Data Management
 
+<img width="1200" height="300" alt="BAIS_6050_home_banner" src="https://github.com/user-attachments/assets/ef46e9e1-d1a8-444e-96af-d1c4723b55f1" />
+
+
 Repository for coursework and projects focused on database normalization, ERD development (draw.io), and managing complex datasets and schema optimization within the Oracle Database environment
 
 For more information on my work, check out my website [here](https://kennykaijage.com/)
