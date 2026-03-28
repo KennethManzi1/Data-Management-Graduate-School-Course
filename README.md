@@ -1,6 +1,6 @@
 ## MSBA Data Management: University of Iowa
 
-Repository for coursework and projects focused on database normalization, ERD development (draw.io), and managing complex datasets from enterprise warehouses
+Repository for coursework and projects focused on database normalization, ERD development (draw.io), and managing complex datasets and schema optimization within the Oracle Database environment
 
 For more information on my work, check out my website [here](https://kennykaijage.com/)
 
