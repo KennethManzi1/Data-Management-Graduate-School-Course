@@ -1,4 +1,4 @@
-## MSBA Data Management: University of Iowa
+## University of Iowa Masters of Business Analytics: Data Management
 
 Repository for coursework and projects focused on database normalization, ERD development (draw.io), and managing complex datasets and schema optimization within the Oracle Database environment
 
