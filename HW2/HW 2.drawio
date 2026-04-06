@@ -39,7 +39,7 @@
         <mxCell id="G2O6nXKm5A-Ln9vEhLL3-12" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;u&gt;RoyalID&lt;/u&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="120" x="-480" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="G2O6nXKm5A-Ln9vEhLL3-13" edge="1" parent="1" source="G2O6nXKm5A-Ln9vEhLL3-12" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="G2O6nXKm5A-Ln9vEhLL3-1" value="">
+        <mxCell id="G2O6nXKm5A-Ln9vEhLL3-13" edge="1" parent="1" source="G2O6nXKm5A-Ln9vEhLL3-12" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fillColor=#a20025;strokeColor=#6F0000;" target="G2O6nXKm5A-Ln9vEhLL3-1" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="400" y="290" as="sourcePoint" />
             <mxPoint x="130" y="180" as="targetPoint" />
@@ -75,7 +75,7 @@
         <mxCell id="G2O6nXKm5A-Ln9vEhLL3-30" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Country&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="120" x="-130" y="400" as="geometry" />
         </mxCell>
-        <mxCell id="G2O6nXKm5A-Ln9vEhLL3-31" edge="1" parent="1" source="G2O6nXKm5A-Ln9vEhLL3-24" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="G2O6nXKm5A-Ln9vEhLL3-26" value="">
+        <mxCell id="G2O6nXKm5A-Ln9vEhLL3-31" edge="1" parent="1" source="G2O6nXKm5A-Ln9vEhLL3-24" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;" target="G2O6nXKm5A-Ln9vEhLL3-26" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="-420" y="290" as="sourcePoint" />
             <mxPoint x="-370" y="240" as="targetPoint" />
@@ -109,7 +109,7 @@
             <mxPoint x="-720" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G2O6nXKm5A-Ln9vEhLL3-49" edge="1" parent="1" source="G2O6nXKm5A-Ln9vEhLL3-33" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" target="G2O6nXKm5A-Ln9vEhLL3-20" value="">
+        <mxCell id="G2O6nXKm5A-Ln9vEhLL3-49" edge="1" parent="1" source="G2O6nXKm5A-Ln9vEhLL3-33" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fillColor=#0050ef;strokeColor=#001DBC;" target="G2O6nXKm5A-Ln9vEhLL3-20" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="-535" y="440" as="sourcePoint" />
             <mxPoint x="-485" y="390" as="targetPoint" />
@@ -127,7 +127,7 @@
         <mxCell id="G2O6nXKm5A-Ln9vEhLL3-53" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Date&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="120" x="-370" y="600" as="geometry" />
         </mxCell>
-        <mxCell id="G2O6nXKm5A-Ln9vEhLL3-54" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" target="G2O6nXKm5A-Ln9vEhLL3-50" value="">
+        <mxCell id="G2O6nXKm5A-Ln9vEhLL3-54" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fillColor=#6a00ff;strokeColor=#3700CC;" target="G2O6nXKm5A-Ln9vEhLL3-50" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
               <mxPoint x="-425" y="560" />
@@ -407,7 +407,7 @@
         <mxCell id="UerNysRuGrNKIbmbH3ka-52" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;u&gt;GIS&lt;/u&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="110" x="-630" y="1320" as="geometry" />
         </mxCell>
-        <mxCell id="UerNysRuGrNKIbmbH3ka-53" edge="1" parent="1" source="UerNysRuGrNKIbmbH3ka-47" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" value="">
+        <mxCell id="UerNysRuGrNKIbmbH3ka-53" edge="1" parent="1" source="UerNysRuGrNKIbmbH3ka-47" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#0050ef;strokeColor=#001DBC;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
               <mxPoint x="-810" y="1340" />
@@ -418,7 +418,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UerNysRuGrNKIbmbH3ka-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;GIS&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="150" x="-765" y="1290" as="geometry" />
+          <mxGeometry height="30" width="150" x="-810" y="1290" as="geometry" />
         </mxCell>
         <mxCell id="UerNysRuGrNKIbmbH3ka-55" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;u&gt;CountryID&lt;/u&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="110" x="-760" y="1440" as="geometry" />
@@ -451,15 +451,162 @@
             <mxPoint x="-300" y="1230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UerNysRuGrNKIbmbH3ka-65" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" value="">
+        <mxCell id="UerNysRuGrNKIbmbH3ka-67" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="-726.25" y="1390" />
-              <mxPoint x="-344.25" y="1390" />
+              <mxPoint x="-720" y="1289.94" />
+              <mxPoint x="-605" y="1289.94" />
             </Array>
-            <mxPoint x="-726.25" y="1440" as="sourcePoint" />
-            <mxPoint x="-343.7500000000002" y="1240" as="targetPoint" />
+            <mxPoint x="-720" y="1239.94" as="sourcePoint" />
+            <mxPoint x="-605" y="1239.94" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UerNysRuGrNKIbmbH3ka-68" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="-605" y="1240" />
+              <mxPoint x="-605" y="1290" />
+              <mxPoint x="-485" y="1290" />
+            </Array>
+            <mxPoint x="-600" y="1240" as="sourcePoint" />
+            <mxPoint x="-485" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UerNysRuGrNKIbmbH3ka-69" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="-485" y="1240" />
+              <mxPoint x="-485" y="1290" />
+              <mxPoint x="-365" y="1290" />
+            </Array>
+            <mxPoint x="-480" y="1240" as="sourcePoint" />
+            <mxPoint x="-365" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UerNysRuGrNKIbmbH3ka-70" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="-690" y="1400.06" />
+              <mxPoint x="-585" y="1400.06" />
+            </Array>
+            <mxPoint x="-690" y="1440" as="sourcePoint" />
+            <mxPoint x="-585" y="1440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UerNysRuGrNKIbmbH3ka-71" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="-585" y="1400.06" />
+              <mxPoint x="-480" y="1400.06" />
+            </Array>
+            <mxPoint x="-585" y="1440" as="sourcePoint" />
+            <mxPoint x="-480" y="1440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UerNysRuGrNKIbmbH3ka-72" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="-479.94" y="1400.06" />
+              <mxPoint x="-374.94" y="1400.06" />
+            </Array>
+            <mxPoint x="-480" y="1440" as="sourcePoint" />
+            <mxPoint x="-375" y="1440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UerNysRuGrNKIbmbH3ka-75" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="UerNysRuGrNKIbmbH3ka-60" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-380" y="1400" as="sourcePoint" />
+            <mxPoint x="-260" y="1370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UerNysRuGrNKIbmbH3ka-76" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-260" y="1400" as="sourcePoint" />
+            <mxPoint x="-140" y="1440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UerNysRuGrNKIbmbH3ka-78" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ScreenName&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-650" y="1610" as="geometry" />
+        </mxCell>
+        <mxCell id="UerNysRuGrNKIbmbH3ka-79" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Review&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="-530" y="1610" as="geometry" />
+        </mxCell>
+        <mxCell id="UerNysRuGrNKIbmbH3ka-81" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;u&gt;ReviewerID&lt;/u&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="110" x="-760" y="1610" as="geometry" />
+        </mxCell>
+        <mxCell id="UerNysRuGrNKIbmbH3ka-82" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;COUNTRY&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="-305" y="1370" as="geometry" />
+        </mxCell>
+        <mxCell id="UerNysRuGrNKIbmbH3ka-83" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;CountryID&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="110" x="-410" y="1610" as="geometry" />
+        </mxCell>
+        <mxCell id="UerNysRuGrNKIbmbH3ka-84" edge="1" parent="1" source="UerNysRuGrNKIbmbH3ka-62" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#d80073;strokeColor=#A50040;" target="UerNysRuGrNKIbmbH3ka-55" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="-355" y="1380" />
+              <mxPoint x="-705" y="1380" />
+            </Array>
+            <mxPoint x="-370" y="1380" as="sourcePoint" />
+            <mxPoint x="-390" y="1510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UerNysRuGrNKIbmbH3ka-85" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-400" y="1640" as="sourcePoint" />
+            <mxPoint x="-310" y="1640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UerNysRuGrNKIbmbH3ka-86" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Reviewer&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="-770" y="1550" as="geometry" />
+        </mxCell>
+        <mxCell id="UerNysRuGrNKIbmbH3ka-87" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=#0050ef;strokeColor=#001DBC;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="-365" y="1560" />
+              <mxPoint x="-665" y="1560" />
+              <mxPoint x="-665" y="1480" />
+            </Array>
+            <mxPoint x="-365" y="1610" as="sourcePoint" />
+            <mxPoint x="-665" y="1480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UerNysRuGrNKIbmbH3ka-88" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="-735" y="1590" />
+              <mxPoint x="-630" y="1590" />
+            </Array>
+            <mxPoint x="-735" y="1610" as="sourcePoint" />
+            <mxPoint x="-630" y="1610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UerNysRuGrNKIbmbH3ka-89" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="-630" y="1590.06" />
+              <mxPoint x="-525" y="1590.06" />
+            </Array>
+            <mxPoint x="-630" y="1600" as="sourcePoint" />
+            <mxPoint x="-525" y="1610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UerNysRuGrNKIbmbH3ka-92" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="UerNysRuGrNKIbmbH3ka-83" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-530" y="1589.97" as="sourcePoint" />
+            <mxPoint x="-480" y="1539.97" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UerNysRuGrNKIbmbH3ka-93" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Question 3&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="290" x="-850" y="1740" as="geometry" />
+        </mxCell>
+        <mxCell id="UerNysRuGrNKIbmbH3ka-95" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;h3 data-path-to-node=&quot;2&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Entity Integrity:&lt;/font&gt;&lt;/h3&gt;&lt;p data-path-to-node=&quot;3&quot;&gt;&lt;font size=&quot;3&quot;&gt;Every provider in the Centene network must be uniquely identifiable. We use a &lt;b data-path-to-node=&quot;3&quot; data-index-in-node=&quot;92&quot;&gt;National Provider Identifier (NPI)&lt;/b&gt; or an internal &lt;b data-path-to-node=&quot;3&quot; data-index-in-node=&quot;142&quot;&gt;Provider_ID&lt;/b&gt; as the Primary Key. Entity integrity ensures that this ID is never null and never duplicated.&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;If two different doctors were assigned the same ID, or if a provider was entered without a unique ID, the system wouldn&#39;t know which doctor to pay for a surgery.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;It guarantees that every record in the &quot;Providers&quot; table represents one distinct, real-world entity, ensuring accurate reporting and payment routing.&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="230" width="690" x="-770" y="1780" as="geometry" />
+        </mxCell>
+        <mxCell id="UerNysRuGrNKIbmbH3ka-96" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;h3 data-path-to-node=&quot;5&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Domain Integrity:&amp;nbsp;&lt;/font&gt;&lt;/h3&gt;&lt;h3 data-path-to-node=&quot;5&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;This restricts the type, format, and range of data that can be entered into a specific column.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;For a &quot;Claim_Amount&quot; field, domain integrity would mandate a &lt;/span&gt;&lt;b data-path-to-node=&quot;7,0,0&quot; data-index-in-node=&quot;70&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Decimal&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt; data type and a constraint where the value must be &lt;/span&gt;&lt;b data-path-to-node=&quot;7,0,0&quot; data-index-in-node=&quot;129&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;gt; 0&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;. For a &quot;Provider_Specialty&quot; field, we might use a &lt;/span&gt;&lt;b data-path-to-node=&quot;7,0,0&quot; data-index-in-node=&quot;183&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Check Constraint&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt; or a dropdown list (e.g., &#39;Cardiology&#39;, &#39;Pediatrics&#39;, &#39;General Practice&#39;) to prevent someone from entering &quot;N/A&quot; or a typo like &quot;Cardoligy.&quot;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;It ensures data consistency across millions of claims. As an analyst, this prevents &quot;garbage in, garbage out&quot; scenarios, making it much easier to aggregate costs by specialty without cleaning thousands of typos.&lt;/span&gt;&lt;/font&gt;&lt;/h3&gt;&lt;h3 data-path-to-node=&quot;8&quot;&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="230" width="690" x="-760" y="2040" as="geometry" />
+        </mxCell>
+        <mxCell id="UerNysRuGrNKIbmbH3ka-97" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;h3 data-path-to-node=&quot;8&quot;&gt;Referential Integrity:&lt;/h3&gt;&lt;h3 data-path-to-node=&quot;5&quot;&gt;&lt;p data-path-to-node=&quot;9&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;This ensures that relationships between tables remain consistent. A value in a Foreign Key column must match an existing value in the Primary Key column of the related table.&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;In the &lt;/span&gt;&lt;span data-path-to-node=&quot;10,0,0&quot; data-index-in-node=&quot;16&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Claims Table&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;, there is a column for &lt;/span&gt;&lt;code data-path-to-node=&quot;10,0,0&quot; data-index-in-node=&quot;52&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Plan_ID&lt;/code&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;. Referential integrity ensures that you cannot submit a claim for a &lt;/span&gt;&lt;code data-path-to-node=&quot;10,0,0&quot; data-index-in-node=&quot;128&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Plan_ID&lt;/code&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; that doesn&#39;t actually exist in the &lt;/span&gt;&lt;span data-path-to-node=&quot;10,0,0&quot; data-index-in-node=&quot;171&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Insurance_Plans Table&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;. Similarly, if we try to delete a Plan from the system, referential integrity would &quot;restrict&quot; that deletion if there are still active claims tied to it.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;It prevents &quot;orphan records.&quot; Without it, we might have claims for insurance plans that don&#39;t exist, meaning the system would have no way to determine the coverage limits or co-pay amounts for that claim, leading to a total system failure during adjudication.&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;/h3&gt;&lt;h3 data-path-to-node=&quot;8&quot;&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="230" width="690" x="-760" y="2320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
