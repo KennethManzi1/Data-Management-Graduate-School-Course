@@ -7,7 +7,7 @@ Repository for coursework and projects focused on database normalization, ERD de
 
 For more information on my work, check out my website [here](https://kennykaijage.com/)
 
-If you have any questions or areas of improvement for my projects and also want to connect, you can find me on Linkedln [here](https://www.linkedin.com/in/kenneth-kaijage-951a02141/)
+If you have any questions or areas of improvement for my projects and also want to connect, you can find me on Linkedln [here]([https://www.linkedin.com/in/kenneth-kaijage-951a02141/)
 
 
 
