@@ -15,5 +15,6 @@ If you have any questions or areas of improvement for my projects and also want 
 ## Table of Contents
 - [HW1](https://github.com/KennethManzi1/Data-Management-Graduate-School-Course/tree/5b54102fc32a0979373bd50be230eea05005e109/HW1)
 - [HW2](https://github.com/KennethManzi1/Data-Management-Graduate-School-Course/tree/main/HW2)
+- [HW3](https://github.com/KennethManzi1/Data-Management-Graduate-School-Course/tree/main/HW3)
 
 
